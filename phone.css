@@ -1,0 +1,42 @@
+/* navigation */
+#navbar{
+    flex-direction: column;
+    justify-content: center;
+    align-items: center
+   
+}
+#navbar ul li {
+    padding: -5px;
+
+}
+/* home */
+
+
+#home{
+height: fit-content;
+}
+#home::before {
+    height: 500px;
+}
+#home p{
+
+}
+/* services */
+#services{
+    flex-direction: column;
+
+}
+#services .home{
+
+}
+/* clients section */
+
+
+/* contact us section */
+
+/* footer */
+
+/* utility classess */
+.h-primary{
+
+}
